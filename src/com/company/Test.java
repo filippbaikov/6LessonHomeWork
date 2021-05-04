@@ -12,8 +12,7 @@ public class Test {
         System.out.println(dog.name);
         dog.Swim(10);
         dog.Run(500);
-        System.out.println();
-        System.out.println("шляпа какая-то с комиченьем, пушиньем и пулреквестиньем");
+
 
     }
 }
