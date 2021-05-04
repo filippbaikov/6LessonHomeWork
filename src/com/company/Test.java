@@ -6,7 +6,7 @@ public class Test {
         System.out.println(cat.name);
     cat.Swim(0);
     cat.Run(200);
-   // cat.r
+
         System.out.println();
     Dog dog=new Dog("Пёс");
         System.out.println(dog.name);
